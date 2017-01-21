@@ -1,2 +1,2 @@
 # sodium
-Reservado para el proyecto de grado de [@goja288](https://github.com/goja288), despues de la defensa se publica
+Reservado para el articulo relacionado al proyecto de [@goja288](https://github.com/goja288), despues de la defensa se publica
